@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881813985233",
+    "project_id": "breakingnewsfey-55",
+    "storage_bucket": "breakingnewsfey-55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881813985233:android:673af1a9ce9906f56fb2f0",
+        "android_client_info": {
+          "package_name": "com.example.breakingnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881813985233-d5khb9c27bu85oi2apsqqb85svjmfeqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg3cEOVVVVPpaB_zFjlIrX-dxno4aQsjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881813985233-d5khb9c27bu85oi2apsqqb85svjmfeqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
